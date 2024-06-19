@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AllisonW123
-- 👀 I’m interested in front end development, UX/UI, and indie game dev
-- 🌱 I’m currently learning Python and C++
-- 📫 How to reach me at allisonmwheeler0@gmail.com (personal) or allison.wheeler@gitkraken.com (professional)
+- 👀 Interested in front end development, UX/UI, and indie game dev
+- 🌱 Currently learning Python and C++
+- 📫 Reach me at allisonmwheeler0@gmail.com (personal) or allison.wheeler@gitkraken.com (professional)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love spicy margaritas!
 
